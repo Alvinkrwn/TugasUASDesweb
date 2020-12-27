@@ -1,0 +1,90 @@
+.padding-nav{
+    padding: 20px 0px 0px 0px;
+}
+
+.ukuran-logo1{
+    width: 30px;
+    height: 30px;
+}
+
+.ukuran-gambar{
+    align-content: center;
+}
+
+.ukuran-logo{
+    width: 200px;
+    height: 200px;
+}
+
+.ukuran-navbar{
+    width: auto;
+    height: 100px;
+}
+
+.posisi-logo{
+    position: sticky;
+}
+
+.posisi-button{
+    text-align:center ;
+    margin-left: 20px;
+}
+
+.warna-bg{
+    background: linear-gradient(to right, rgba(91,134,229, .92), rgba(54,209,220, .92));
+}
+
+.ukuran-jumbotron{
+    height: auto;
+}
+
+.jumbotron-bg{
+    background-size: cover;
+    background: url(img/pattern-5554275_960_720.png);
+    background-size: 300px;
+}
+
+.padding-footer{
+    padding: 20px;
+}
+
+.tempatkonten{
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .hilang {
+      visibility: hidden;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .ukuran-jumbotron {
+      height: 600px;
+  }
+}
+
+.bawah{
+    position: relative;
+    bottom: 0px;
+}
+
+@media screen and (max-width: 600px) {
+  .bawah {
+      position: relative;
+    bottom: 0px;
+  }
+}
+
+.jarakkonten{
+    margin-top: 100px;
+}
+
+.padding-form-samping{
+    padding-top: 100px;
+}
+
+.warna-bg-abu{
+    background-color:#e1e1eb;
+    
+}
